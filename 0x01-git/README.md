@@ -1,2 +1,2 @@
-My second readme
-hello in my directory
+Hi
+My readme is up to date
